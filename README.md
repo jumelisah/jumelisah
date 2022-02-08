@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jumelisah. You can call me Melisa or Mel for short.
+
+I'm currently learning about Web-developer in Fazztrack Bootcamp
 
 <!--
 **jumelisah/jumelisah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
