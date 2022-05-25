@@ -1,4 +1,4 @@
-### Hi😄
+### Hi
 My name is Jumelisah. You can call me Melisa or Mel for short.
 
 I'm currently learning about Web-developer in Fazztrack Bootcamp
